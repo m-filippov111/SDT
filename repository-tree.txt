@@ -1,7 +1,3 @@
-## 6. Структура репозитория
-
-```text
-.
 ├── README.md
 ├── LICENSE.md
 ├── CONTRIBUTING.md
