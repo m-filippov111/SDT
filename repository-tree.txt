@@ -31,7 +31,102 @@
 │   │   ├── README.md
 │   │   ├── kim-01-practical-work.md
 │   │   └── kim-02-template.md
+│   ├── M3-design-a## 6. Структура репозитория
+
+```text
+.
+├── README.md
+├── LICENSE.md
+├── CONTRIBUTING.md
+├── repository-tree.txt
+├── data/
+│   ├── README.md
+│   └── krm-v3.0.xlsx
+├── docs/
+│   ├── README.md
+│   ├── quality-checklist.md
+│   └── rpd.md
+├── Modules/
+│   ├── README.md
+│   ├── M1-lifecycle-and-team-organization/
+│   │   ├── attachments/
+│   │   │   ├── agreements-template.md
+│   │   │   ├── ai-log-template.md
+│   │   │   ├── backlog-template.md
+│   │   │   ├── project-goal-template.md
+│   │   │   ├── raci-template.md
+│   │   │   └── requirements-template.md
+│   │   ├── README.md
+│   │   ├── kim-01-practical-work.md
+│   │   ├── lecture-01.md
+│   │   └── rubric-01.md
+│   ├── M2-collaboration-tools/
+│   │   ├── attachments/
+│   │   │   ├── ai-commit-template.md
+│   │   │   ├── ci-java.yml
+│   │   │   ├── ci-python.yml
+│   │   │   ├── gitignore-template
+│   │   │   ├── pre-commit-config.yaml
+│   │   │   └── pull_request_template.md
+│   │   ├── README.md
+│   │   ├── kim-01-practical-work.md
+│   │   ├── kim-02-template.md
+│   │   ├── lecture-02.md
+│   │   └── rubric-01.md
 │   ├── M3-design-and-server-development/
+│   │   └── (пусто)
+│   ├── M4-software-quality/
+│   │   └── (пусто)
+│   └── M5-data-processing/
+│       └── (пусто)
+├── Project/
+│   ├── attachments/
+│   │   └── M1-lifecycle-and-team-organization/
+│   │       └── (пусто)
+│   └── README.md
+├── Exam/
+│   ├── attachments/
+│   │   └── (пусто)
+│   └── README.md
+├── methodical-guidelines/
+│   ├── README.md
+│   ├── students/
+│   │   └── README.md
+│   ├── teachers-assessment/
+│   │   └── README.md
+│   └── teachers-resources/
+│       └── README.md
+├── resources/
+│   ├── README.md
+│   ├── benchmarks/
+│   │   └── README.md
+│   ├── datasets/
+│   │   └── README.md
+│   ├── llm-prompts/
+│   │   └── README.md
+│   ├── other/
+│   │   └── README.md
+│   ├── papers/
+│   │   └── README.md
+│   ├── problem-banks/
+│   │   └── README.md
+│   ├── software/
+│   │   └── python-libs/
+│   │       └── README.md
+│   ├── test-banks/
+│   │   └── README.md
+│   └── textbooks/
+│       └── README.md
+├── team/
+│   ├── README.md
+│   └── images/
+│       └── Philippov_MV.jpg
+├── other/
+│   └── README.md
+├── tools/
+│   ├── README.md
+│   └── validate_repository.py
+└── .gitignorend-server-development/
 │   │   ├── attachments/
 │   │   │   └── .gitkeep
 │   │   ├── README.md
