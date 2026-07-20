@@ -1,0 +1,97 @@
+## 6. Структура репозитория
+
+```text
+.
+├── README.md
+├── LICENSE.md
+├── CONTRIBUTING.md
+├── .gitignore
+├── validation-report.txt
+├── data/
+│   ├── README.md
+│   ├── competency-catalog.csv
+│   ├── krm-v3.0.xlsx
+│   └── role-competency-matrix.csv
+├── docs/
+│   ├── README.md
+│   ├── quality-checklist.md
+│   ├── repository_example.pdf
+│   └── rpd.md
+├── Modules/
+│   ├── README.md
+│   ├── M1-lifecycle-and-team-organization/
+│   │   ├── attachments/
+│   │   │   └── .gitkeep
+│   │   ├── README.md
+│   │   ├── kim-01-practical-work.md
+│   │   └── rubric-01.md
+│   ├── M2-collaboration-tools/
+│   │   ├── attachments/
+│   │   │   └── .gitkeep
+│   │   ├── README.md
+│   │   ├── kim-01-practical-work.md
+│   │   └── kim-02-template.md
+│   ├── M3-design-and-server-development/
+│   │   ├── attachments/
+│   │   │   └── .gitkeep
+│   │   ├── README.md
+│   │   ├── kim-01-practical-work.md
+│   │   └── rubric-01.md
+│   ├── M4-software-quality/
+│   │   ├── attachments/
+│   │   │   └── .gitkeep
+│   │   ├── README.md
+│   │   ├── kim-01-practical-work.md
+│   │   └── rubric-01.md
+│   └── M5-data-processing/
+│       ├── attachments/
+│       │   └── .gitkeep
+│       ├── README.md
+│       ├── kim-01-practical-work.md
+│       └── rubric-01.md
+├── Project/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   └── README.md
+├── Exam/
+│   ├── attachments/
+│   │   └── .gitkeep
+│   └── README.md
+├── methodical-guidelines/
+│   ├── README.md
+│   ├── students/
+│   │   └── README.md
+│   ├── teachers-assessment/
+│   │   └── README.md
+│   └── teachers-resources/
+│       └── README.md
+├── resources/
+│   ├── README.md
+│   ├── benchmarks/
+│   │   └── README.md
+│   ├── datasets/
+│   │   └── README.md
+│   ├── llm-prompts/
+│   │   └── README.md
+│   ├── other/
+│   │   └── README.md
+│   ├── papers/
+│   │   └── README.md
+│   ├── problem-banks/
+│   │   └── README.md
+│   ├── software/
+│   │   └── python-libs/
+│   │       └── README.md
+│   ├── test-banks/
+│   │   └── README.md
+│   └── textbooks/
+│       └── README.md
+├── team/
+│   ├── README.md
+│   └── images/
+│       └── .gitkeep
+├── other/
+│   └── README.md
+└── tools/
+    ├── README.md
+    └── validate_repository.py
