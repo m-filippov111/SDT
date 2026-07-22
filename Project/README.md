@@ -96,3 +96,6 @@ team-XX-project/
 - [Шаблон ai-usage-log.md](../Modules/M1-lifecycle-and-team-organization/attachments/ai-log-template.md)
 - [Шаблон pull_request_template.md](../Modules/M2-collaboration-tools/attachments/pull_request_template.md)
 - [Шаблон CI для Python](../Modules/M2-collaboration-tools/attachments/ci-python.yml)
+- [Шаблон test-plan.md](../Modules/M4-software-quality/attachments/test-plan-template.md) (спринт 2)
+- [Шаблон quality-report.md](../Modules/M4-software-quality/attachments/quality-report-template.md) (спринт 2)
+- [Шаблон cross-team-review.md](../Modules/M4-software-quality/attachments/cross-team-review-template.md) (спринт 2)
