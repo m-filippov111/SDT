@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | 1. Жизненный цикл ПО и организация командной разработки | [M1-lifecycle-and-team-organization](M1-lifecycle-and-team-organization/README.md) | Готово |
 | 2. Инструменты коллективной разработки | [M2-collaboration-tools](M2-collaboration-tools/README.md) | Готово |
-| 3. Проектирование и серверная разработка на Python | [M3-design-and-server-development](M3-design-and-server-development/README.md) | В разработке |
+| 3. Проектирование и серверная разработка на Python | [M3-design-and-server-development](M3-design-and-server-development/README.md) | Готово |
 | 4. Качество программного обеспечения | [M4-software-quality](M4-software-quality/README.md) | Готово (черновик для ревью) |
 | 5. Обработка данных в приложении | [M5-data-processing](M5-data-processing/README.md) | Готово |
 | 6. Командный программный проект (сквозной) | [../Project/README.md](../Project/README.md) | Готово |
