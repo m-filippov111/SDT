@@ -79,6 +79,7 @@
 │   │   └── rubric-01.md
 │   └── README.md
 ├── other/
+│   ├── Технологии разработки программного обеспечения РПД.pdf
 │   └── README.md
 ├── Project/
 │   ├── kim-01-sprint-reviews.md
