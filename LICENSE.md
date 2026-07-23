@@ -29,7 +29,7 @@
 ## Лицензия
 
 Материалы репозитория распространяются на условиях лицензии
-[Creative Commons Attribution 4.0 International](LICENSE).
+[Creative Commons Attribution 4.0 International](LICENSE.md).
 
 При использовании и адаптации материалов необходимо указывать авторов
 и источник.

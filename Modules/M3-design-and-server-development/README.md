@@ -43,9 +43,9 @@
 
 ## Шаблоны документов
 
-- [Шаблон test-plan.md](attachments/test-plan-template.md) — план тестирования ключевой логики
-- [Шаблон quality-report.md](attachments/quality-report-template.md) — отчёт об оценке качества
-- [Шаблон cross-team-review.md](attachments/cross-team-review-template.md) — протокол код-ревью между командами
-- [Шаблон logging.md](attachments/logging-template.md) — соглашение по структурированному логированию
-- [Пример conftest.py](attachments/conftest-example.py) — фикстуры pytest для FastAPI
-- [Пример pytest.ini](attachments/pytest.ini) — базовая конфигурация pytest и покрытия
+- [Шаблон test-plan.md](../M4-software-quality/attachments/test-plan-template.md) — план тестирования ключевой логики
+- [Шаблон quality-report.md](../M4-software-quality/attachments/quality-report-template.md) — отчёт об оценке качества
+- [Шаблон cross-team-review.md](../M4-software-quality/attachments/cross-team-review-template.md) — протокол код-ревью между командами
+- [Шаблон logging.md](../M4-software-quality/attachments/logging-template.md) — соглашение по структурированному логированию
+- [Пример conftest.py](../M4-software-quality/attachments/conftest-example.py) — фикстуры pytest для FastAPI
+- [Пример pytest.ini](../M4-software-quality/attachments/pytest.ini) — базовая конфигурация pytest и покрытия
